@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lato:wght@400;700&display=swap");
+/*font-family: 'Inter', sans-serif;
+font-family: 'Lato', sans-serif;*/
+html, body {
+  font-family: var(--font-main);
+  color: var(--textColor);
+}/*# sourceMappingURL=base.css.map */
